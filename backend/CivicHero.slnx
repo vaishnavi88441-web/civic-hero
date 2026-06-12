@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CivicHero.API/CivicHero.API.csproj" />
+  <Project Path="CivicHero.Application/CivicHero.Application.csproj" />
+  <Project Path="CivicHero.Domain/CivicHero.Domain.csproj" />
+  <Project Path="CivicHero.Infrastructure/CivicHero.Infrastructure.csproj" />
+  <Project Path="CivicHero.Tests/CivicHero.Tests.csproj" />
+</Solution>

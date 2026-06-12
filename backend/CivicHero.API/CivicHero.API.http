@@ -1,0 +1,6 @@
+@CivicHero.API_HostAddress = http://localhost:5208
+
+GET {{CivicHero.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
